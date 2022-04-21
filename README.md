@@ -7,7 +7,7 @@
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
 > git clone https://github.com/XrulDroidX/WABOT
-> cd games-wabot
+> cd WABOT
 > npm install
 ```
 ###### Run
